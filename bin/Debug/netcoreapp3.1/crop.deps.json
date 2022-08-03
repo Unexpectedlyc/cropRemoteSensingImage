@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "crop/1.0.0": {
+        "dependencies": {
+          "gdalconst_csharp": "1.0.8024.27196",
+          "gdal_csharp": "1.0.8024.27195",
+          "ogr_csharp": "1.0.8024.27195",
+          "osr_csharp": "1.0.8024.27195"
+        },
+        "runtime": {
+          "crop.dll": {}
+        }
+      },
+      "gdalconst_csharp/1.0.8024.27196": {
+        "runtime": {
+          "gdalconst_csharp.dll": {
+            "assemblyVersion": "1.0.8024.27196",
+            "fileVersion": "1.0.8024.27196"
+          }
+        }
+      },
+      "gdal_csharp/1.0.8024.27195": {
+        "runtime": {
+          "gdal_csharp.dll": {
+            "assemblyVersion": "1.0.8024.27195",
+            "fileVersion": "1.0.8024.27195"
+          }
+        }
+      },
+      "ogr_csharp/1.0.8024.27195": {
+        "runtime": {
+          "ogr_csharp.dll": {
+            "assemblyVersion": "1.0.8024.27195",
+            "fileVersion": "1.0.8024.27195"
+          }
+        }
+      },
+      "osr_csharp/1.0.8024.27195": {
+        "runtime": {
+          "osr_csharp.dll": {
+            "assemblyVersion": "1.0.8024.27195",
+            "fileVersion": "1.0.8024.27195"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "crop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gdalconst_csharp/1.0.8024.27196": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gdal_csharp/1.0.8024.27195": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ogr_csharp/1.0.8024.27195": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "osr_csharp/1.0.8024.27195": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
